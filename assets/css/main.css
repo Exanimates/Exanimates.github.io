@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.short-about {
+		font-size: 25px;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
